@@ -3,7 +3,7 @@ venv/
 ENV/
 env/
 .venv/
-
+.env
 # Archivos de configuración del sistema
 .DS_Store
 Thumbs.db
